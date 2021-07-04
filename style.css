@@ -47,3 +47,12 @@ section{
    background-position: right;
 
 }
+.h-1{
+    color: green;
+}
+.p-2{
+    color: rgba(78, 74, 74, 0.74);
+    text-align: justify;
+    text-shadow: green;
+    text-decoration: hotpink;
+}
