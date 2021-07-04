@@ -76,7 +76,7 @@ span{
 }
 #fstwd{
     border-left: 7px solid;
-    border-image:linear-gradient(cyan, green);
+    border-image:linear-gradient(rgb(5, 141, 141), green);
     border-image-slice: 1;
 }
 #bwd{
